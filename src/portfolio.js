@@ -52,6 +52,15 @@ const works = [
   // skills can be added or removed
   // if there are no works experience, Works section won't show up
   {
+    position: 'IT Staff',
+    company: 'Mitsubishi Hitachi Power System - Technical Services',
+    yearsOfService: 'April 2018 - June 2018',
+    tasks: [
+      'Assist in defining requirements and designing applications to meet business process and application requirements as IT Staff for Software Development Team',
+      'Assist Senior Developers.'
+    ],
+  },
+  {
     position: 'Junior Programmer',
     company: 'Covent Garden, Inc.',
     yearsOfService: 'August 2019 - March 2022',
@@ -62,7 +71,7 @@ const works = [
   },
   {
     position: 'Software Developer',
-    company: 'H2 Software Consulting Services, Inc.',
+    company: 'H2 Software Consulting Services, Inc. (Project Hire at CTBC Bank Philippines)',
     yearsOfService: 'March 2022 - Present',
     tasks: [
       'Design, modify and configure existing desktop application to meet business process and application requirements.',
